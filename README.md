@@ -16,3 +16,8 @@ A simple Android application built with Jetpack Compose for managing a personal 
 - Jetpack Compose
 - Material 3
 - Android SDK
+
+## ✅ Author
+
+**Miloš Vidaković**  
+GitHub: [vidakovicmilos](https://github.com/vidakovicmilos)
